@@ -2,6 +2,8 @@
  <h1 align="center">Hi 👋, I'm Shafin Chowdhury</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 </br>
+</br>
+</br>
 <img align="right" src="https://media3.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" alt="coding" width="400" >
 
 - 🔭 I’m currently working on [insectisidejournal](https://github.com/Shafin-chowdhury/InsectisideJournal)
