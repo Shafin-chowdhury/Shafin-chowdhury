@@ -8,7 +8,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shafin-chowdhury-1837a021a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shafin-chowdhury-187a021a" height="30" width="40" /></a>
-  <a href="https://pinterest.com/in/shafin-chowdhury-1837a021a" target="blank"><img align="center" src="https://raw.githubusercontent.com//github-shafinchowdhury-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shafin-chowdhury-187a021a" height="30" width="40" /></a>
 <a href="https://fb.com/shafin.chowdhury.353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shafin.chowdhury.353" height="30" width="40" /></a>
 <a href="https://instagram.com/__sha_fishu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__sha_fishu" height="30" width="40" /></a>
   <a href="https://twitter.com/Shafindone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shafindone" height="30" width="40" /></a>
