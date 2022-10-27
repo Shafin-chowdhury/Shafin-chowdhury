@@ -1,4 +1,4 @@
- <img align="center" src="https://as1.ftcdn.net/v2/jpg/02/22/96/70/1000_F_222967089_uftweUTsmcqiDYMzFXvSdOI0AfwxNqa7.jpg" alt="coding" width="850">
+ <img align="center" src="https://as1.ftcdn.net/v2/jpg/02/22/96/70/1000_F_222967089_uftweUTsmcqiDYMzFXvSdOI0AfwxNqa7.jpg" alt="coding" width="650">
  <h1 align="center">Hi 👋, I'm Shafin Chowdhury</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" src="https://media3.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" alt="coding" width="400" >
