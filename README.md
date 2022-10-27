@@ -1,29 +1,38 @@
-### Hi there 👋, I am Shafin Chowdhury
-#### A passionate frontend developer from Bangladesh
-![A passionate frontend developer from Bangladesh](https://scontent.fdac80-1.fna.fbcdn.net/v/t39.30808-6/313078737_1190988995168082_3718756040623411047_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFy-Um4Ib7aj7wqRK91mR_s0sun7jTwUQHSy6fuNPBRAXUjy7weGam1HQmEE3iKIHqQ4Ogn32pROJtikxgbJVw9&_nc_ohc=ROUxjRR9lkEAX97hgmn&tn=Xs9MutVWoCbsjVw6&_nc_ht=scontent.fdac80-1.fna&oh=00_AfD_J9o_y3RJ3kDFmWDSRZmfG-CO0Vbs6jX945PSc4gorA&oe=635EBE08)
+ <h1 align="center">Hi 👋, I'm Shafin Chowdhury</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-Assalamualaikum,This is Shafin Chowdhury.I am a Diploma-in-engineering student.My subject is 
-Data Telecommunication and networking Technology. But I am really very interested in IT Section. I love Designing Website and develop it also try to make it Interactive by my own . I love learning new things.I am enthusiastic and a great learner.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shafinchowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="shafinchowdhury" /> </p>
 
-Skills:  REACT / JS / HTML / CSS/BOOTSTRAP/REACT/NETIFY/FIREBASE/MONGODB/FIGMA/CANVA
+- 🔭 I’m currently working on [insectisidejournal](https://github.com/Shafin-chowdhury/InsectisideJournal)
 
-- 🔭 I’m currently working on Musicproject 
-- 🌱 I’m currently learning Javascript 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web design and development 
-- ⚡ Fun fact: I am Beautiful😒 
+- 🌱 I’m currently learning **React.js,mongodb,mysql**
+
+- 👯 I’m looking to collaborate on **Github**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Shafin-chowdhury/ShafinPortfolio](https://github.com/Shafin-chowdhury/ShafinPortfolio)
+
+- 💬 Ask me about **Web design and development**
+
+- 📫 How to reach me **ShafinChowdhury2001@gmail.com**
+
+- ⚡ Fun fact **i am beautiful👌😒**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/shafindone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shafindone" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shafin chowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shafin chowdhury" height="30" width="40" /></a>
+<a href="https://fb.com/shafin chowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shafin chowdhury" height="30" width="40" /></a>
+<a href="https://instagram.com/_sha_fishu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sha_fishu" height="30" width="40" /></a>
+<a href="https://discord.gg/Shufinnn#7354" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Shufinnn#7354" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shafinchowdhury&show_icons=true&locale=en&layout=compact" alt="shafinchowdhury" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shafinchowdhury&show_icons=true&locale=en" alt="shafinchowdhury" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shafinchowdhury&" alt="shafinchowdhury" /></p>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Shafin-chowdhury/Shafin-chowdhury)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shafin-chowdhury-1873a021a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/ShafinChowdhury.353)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_sha_fishu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Shafindone)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://shafin-chowdhury.github.io/ShafinPortfolio/)  
-
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Shafin-chowdhury/Shafin-chowdhury)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Shafin-chowdhury/Shafin-chowdhury&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Shafin-chowdhury/Shafin-chowdhury)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/Shafin-chowdhury/Shafin-chowdhury)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/Shafin-chowdhury/Shafin-chowdhury)  
