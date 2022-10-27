@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Shafin Chowdhury</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-https://i.pinimg.com/564x/f7/a3/c9/f7a3c9ea39a1d532f04b54dd5b19cd5c.jpg
+<img align="right" src="https://media3.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" alt="coding" width="400">
 
 - 🔭 I’m currently working on [insectisidejournal](https://github.com/Shafin-chowdhury/InsectisideJournal)
 
