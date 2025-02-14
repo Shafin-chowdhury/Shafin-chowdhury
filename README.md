@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [insectisidejournal](https://github.com/Shafin-chowdhury/InsectisideJournal)
 
-- 🌱 I’m currently learning **React.js,mongodb,mysql**
+- 🌱 I’m currently learning **Nextjs,mongodb,mysql**
 
 - 👯 I’m looking to collaborate on **Github**
 
